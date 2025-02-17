@@ -10,7 +10,7 @@ A simple **CRUD Application** built with **MERN Stack** (MongoDB, Express.js, Re
 - **React.js** for Frontend
 
 ## 📸 Screenshot
-![App Screenshot](/Apps.png)
+![App Screenshot](./Apps.png)
 
 > **Note:** Replace the placeholder URL with the actual path to your screenshot image.
 
@@ -26,11 +26,14 @@ A simple **CRUD Application** built with **MERN Stack** (MongoDB, Express.js, Re
    git clone https://github.com/RizqiJagad/crud-mern-app.git
    cd crud-mern-app
 2. **Install dependencies**
+    ```sh
     npm install
 3. **Run Backend**
+    ```sh
     cd backend
     npm start
 4. **Run Frontend**
+    ```sh
     cd frontend
     npm start
 5. **Visit in Browser:**
