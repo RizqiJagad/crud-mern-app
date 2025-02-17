@@ -10,7 +10,7 @@ A simple **CRUD Application** built with **MERN Stack** (MongoDB, Express.js, Re
 - **React.js** for Frontend
 
 ## 📸 Screenshot
-![App Screenshot](./images/Apps.png)
+![App Screenshot](https://appsdata.netlify.app/)
 
 > **Note:** Replace the placeholder URL with the actual path to your screenshot image.
 
@@ -37,8 +37,7 @@ A simple **CRUD Application** built with **MERN Stack** (MongoDB, Express.js, Re
     cd frontend
     npm start
 5. **Visit in Browser:**
-    ```sh
-    https://appsdata.netlify.app/
+    **[CRUD MERN App](https://appsdata.netlify.app/)**
 
 ## 📜 API Endpoints
 
